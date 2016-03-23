@@ -184,114 +184,7 @@ DIN A4, landscape with extra doc field</description>
 <description>&lt;b&gt;Atari 5200 Cartridge Board&lt;/b&gt;&lt;p&gt;
 &lt;author&gt;Created by tdididit@gmail.com&lt;/author&gt;</description>
 <packages>
-<package name="ATARI-5200-LONG">
-<description>&lt;B&gt;Atari 5200&lt;/B&gt; cartridge board</description>
-<wire x1="23.8125" y1="17.78" x2="31.115" y2="17.78" width="0" layer="20"/>
-<wire x1="-31.115" y1="17.78" x2="-23.8125" y2="17.78" width="0" layer="20"/>
-<wire x1="-31.115" y1="90.17" x2="-5.08" y2="90.17" width="0" layer="20"/>
-<wire x1="-5.08" y1="90.17" x2="-5.08" y2="87.63" width="0" layer="20"/>
-<wire x1="-5.08" y1="87.63" x2="5.08" y2="87.63" width="0" layer="20"/>
-<wire x1="5.08" y1="87.63" x2="5.08" y2="90.17" width="0" layer="20"/>
-<wire x1="5.08" y1="90.17" x2="31.115" y2="90.17" width="0" layer="20"/>
-<wire x1="31.115" y1="90.17" x2="31.115" y2="17.78" width="0" layer="20"/>
-<wire x1="-31.115" y1="90.17" x2="-31.115" y2="17.78" width="0" layer="20"/>
-<wire x1="-23.8125" y1="0" x2="-23.8125" y2="17.78" width="0" layer="20"/>
-<wire x1="23.8125" y1="0" x2="23.8125" y2="17.78" width="0" layer="20"/>
-<wire x1="-21.59" y1="1.27" x2="-21.59" y2="-5.08" width="1.016" layer="34"/>
-<wire x1="-19.05" y1="1.27" x2="-19.05" y2="-5.08" width="1.016" layer="34"/>
-<wire x1="-13.97" y1="1.27" x2="-13.97" y2="-5.08" width="1.016" layer="34"/>
-<wire x1="-11.43" y1="1.27" x2="-11.43" y2="-5.08" width="1.016" layer="34"/>
-<wire x1="-8.89" y1="1.27" x2="-8.89" y2="-5.08" width="1.016" layer="34"/>
-<wire x1="-3.81" y1="1.27" x2="-3.81" y2="-5.08" width="1.016" layer="34"/>
-<wire x1="1.27" y1="1.27" x2="1.27" y2="-5.08" width="1.016" layer="34"/>
-<wire x1="3.81" y1="1.27" x2="3.81" y2="-5.08" width="1.016" layer="34"/>
-<wire x1="8.89" y1="1.27" x2="8.89" y2="-5.08" width="1.016" layer="34"/>
-<wire x1="13.97" y1="1.27" x2="13.97" y2="-5.08" width="1.016" layer="34"/>
-<wire x1="19.05" y1="1.27" x2="19.05" y2="-5.08" width="1.016" layer="34"/>
-<wire x1="21.59" y1="1.27" x2="21.59" y2="-5.08" width="1.016" layer="34"/>
-<wire x1="-21.59" y1="1.27" x2="-21.59" y2="-5.08" width="1.016" layer="33"/>
-<wire x1="-19.05" y1="1.27" x2="-19.05" y2="-5.08" width="1.016" layer="33"/>
-<wire x1="-13.97" y1="1.27" x2="-13.97" y2="-5.08" width="1.016" layer="33"/>
-<wire x1="-11.43" y1="1.27" x2="-11.43" y2="-5.08" width="1.016" layer="33"/>
-<wire x1="-8.89" y1="1.27" x2="-8.89" y2="-5.08" width="1.016" layer="33"/>
-<wire x1="-6.35" y1="1.27" x2="-6.35" y2="-5.08" width="1.016" layer="33"/>
-<wire x1="-3.81" y1="1.27" x2="-3.81" y2="-5.08" width="1.016" layer="33"/>
-<wire x1="-1.27" y1="1.27" x2="-1.27" y2="-5.08" width="1.016" layer="33"/>
-<wire x1="1.27" y1="1.27" x2="1.27" y2="-5.08" width="1.016" layer="33"/>
-<wire x1="8.89" y1="1.27" x2="8.89" y2="-5.08" width="1.016" layer="33"/>
-<wire x1="13.97" y1="1.27" x2="13.97" y2="-5.08" width="1.016" layer="33"/>
-<wire x1="19.05" y1="1.27" x2="19.05" y2="-5.08" width="1.016" layer="33"/>
-<wire x1="21.59" y1="1.27" x2="21.59" y2="-5.08" width="1.016" layer="33"/>
-<smd name="19_" x="21.59" y="3.81" dx="1.524" dy="6.477" layer="16"/>
-<smd name="20_" x="19.05" y="3.81" dx="1.524" dy="6.477" layer="16"/>
-<smd name="22_" x="13.97" y="3.81" dx="1.524" dy="6.477" layer="16"/>
-<smd name="24_" x="8.89" y="3.81" dx="6.4516" dy="6.477" layer="16"/>
-<smd name="26_" x="3.81" y="3.81" dx="1.524" dy="6.477" layer="16"/>
-<smd name="27_" x="1.27" y="3.81" dx="1.524" dy="6.477" layer="16"/>
-<smd name="29_" x="-3.81" y="3.81" dx="1.524" dy="6.477" layer="16"/>
-<smd name="31_" x="-8.89" y="3.81" dx="1.524" dy="6.477" layer="16"/>
-<smd name="32_" x="-11.43" y="3.81" dx="1.524" dy="6.477" layer="16"/>
-<smd name="33_" x="-13.97" y="3.81" dx="1.524" dy="6.477" layer="16"/>
-<smd name="35" x="-19.05" y="3.81" dx="1.524" dy="6.477" layer="16"/>
-<smd name="36" x="-21.59" y="4.445" dx="1.524" dy="5.207" layer="16"/>
-<smd name="16" x="16.51" y="3.81" dx="1.524" dy="6.477" layer="1"/>
-<smd name="15" x="13.97" y="3.81" dx="1.524" dy="6.477" layer="1"/>
-<smd name="13" x="8.89" y="3.81" dx="6.4516" dy="6.477" layer="1"/>
-<smd name="10" x="1.27" y="3.81" dx="1.524" dy="6.477" layer="1"/>
-<smd name="9" x="-1.27" y="3.81" dx="1.524" dy="6.477" layer="1"/>
-<smd name="8" x="-3.81" y="3.81" dx="1.524" dy="6.477" layer="1"/>
-<smd name="7" x="-6.35" y="3.81" dx="1.524" dy="6.477" layer="1"/>
-<smd name="6" x="-8.89" y="3.81" dx="1.524" dy="6.477" layer="1"/>
-<smd name="5" x="-11.43" y="3.81" dx="1.524" dy="6.477" layer="1"/>
-<smd name="4" x="-13.97" y="3.81" dx="1.524" dy="6.477" layer="1"/>
-<smd name="3" x="-16.51" y="3.81" dx="1.524" dy="6.477" layer="1"/>
-<smd name="2" x="-19.05" y="3.81" dx="1.524" dy="6.477" layer="1"/>
-<smd name="1" x="-21.59" y="3.81" dx="1.524" dy="6.477" layer="1"/>
-<text x="-21.59" y="15.24" size="1.778" layer="25">&gt;NAME</text>
-<text x="-21.59" y="11.43" size="1.778" layer="27">&gt;VALUE</text>
-<rectangle x1="-22.352" y1="0.508" x2="-20.828" y2="7.112" layer="34"/>
-<rectangle x1="-22.352" y1="0.508" x2="-20.828" y2="7.112" layer="33"/>
-<rectangle x1="-19.812" y1="0.508" x2="-18.288" y2="7.112" layer="34"/>
-<rectangle x1="-19.812" y1="0.508" x2="-18.288" y2="7.112" layer="33"/>
-<rectangle x1="-14.732" y1="0.508" x2="-13.208" y2="7.112" layer="34"/>
-<rectangle x1="-14.732" y1="0.508" x2="-13.208" y2="7.112" layer="33"/>
-<rectangle x1="-12.192" y1="0.508" x2="-10.668" y2="7.112" layer="34"/>
-<rectangle x1="-12.192" y1="0.508" x2="-10.668" y2="7.112" layer="33"/>
-<rectangle x1="-9.652" y1="0.508" x2="-8.128" y2="7.112" layer="34"/>
-<rectangle x1="-9.652" y1="0.508" x2="-8.128" y2="7.112" layer="33"/>
-<rectangle x1="-7.112" y1="0.508" x2="-5.588" y2="7.112" layer="33"/>
-<rectangle x1="-4.572" y1="0.508" x2="-3.048" y2="7.112" layer="34"/>
-<rectangle x1="-4.572" y1="0.508" x2="-3.048" y2="7.112" layer="33"/>
-<rectangle x1="-2.032" y1="0.508" x2="-0.508" y2="7.112" layer="33"/>
-<rectangle x1="0.508" y1="0.508" x2="2.032" y2="7.112" layer="34"/>
-<rectangle x1="0.508" y1="0.508" x2="2.032" y2="7.112" layer="33"/>
-<rectangle x1="3.048" y1="0.508" x2="4.572" y2="7.112" layer="34"/>
-<rectangle x1="5.588" y1="0.5588" x2="12.192" y2="7.112" layer="34"/>
-<rectangle x1="5.588" y1="0.508" x2="12.192" y2="7.112" layer="33"/>
-<rectangle x1="13.208" y1="0.508" x2="14.732" y2="7.112" layer="34"/>
-<rectangle x1="13.208" y1="0.508" x2="14.732" y2="7.112" layer="33"/>
-<rectangle x1="18.288" y1="0.508" x2="19.812" y2="7.112" layer="34"/>
-<rectangle x1="18.288" y1="0.508" x2="19.812" y2="7.112" layer="33"/>
-<rectangle x1="20.828" y1="0.508" x2="22.352" y2="7.112" layer="34"/>
-<rectangle x1="20.828" y1="0.508" x2="22.352" y2="7.112" layer="33"/>
-<wire x1="-16.51" y1="1.27" x2="-16.51" y2="-5.08" width="1.016" layer="34"/>
-<wire x1="-16.51" y1="1.27" x2="-16.51" y2="-5.08" width="1.016" layer="33"/>
-<smd name="34_" x="-16.51" y="3.81" dx="1.524" dy="6.477" layer="16"/>
-<smd name="17_" x="19.05" y="3.81" dx="1.524" dy="6.477" layer="1"/>
-<rectangle x1="-17.272" y1="0.508" x2="-15.748" y2="7.112" layer="34"/>
-<rectangle x1="-17.272" y1="0.508" x2="-15.748" y2="7.112" layer="33"/>
-<wire x1="16.51" y1="1.27" x2="16.51" y2="-5.08" width="1.016" layer="34"/>
-<wire x1="16.51" y1="1.27" x2="16.51" y2="-5.08" width="1.016" layer="33"/>
-<smd name="21_" x="16.51" y="3.81" dx="1.524" dy="6.477" layer="16"/>
-<smd name="18_" x="21.59" y="4.445" dx="1.524" dy="5.207" layer="1"/>
-<rectangle x1="15.748" y1="0.508" x2="17.272" y2="7.112" layer="34"/>
-<rectangle x1="15.748" y1="0.508" x2="17.272" y2="7.112" layer="33"/>
-<rectangle x1="5.588" y1="0.5588" x2="12.192" y2="7.0485" layer="1"/>
-<rectangle x1="5.588" y1="0.5588" x2="12.192" y2="7.0485" layer="16"/>
-<wire x1="-23.8125" y1="0" x2="23.8125" y2="0" width="0" layer="20"/>
-<hole x="0" y="39.37" drill="7"/>
-</package>
-<package name="ATARI-5200-SMALL">
+<package name="ATARI-5200-SMALL-T">
 <description>&lt;B&gt;Atari 5200&lt;/B&gt; cartridge board</description>
 <wire x1="23.8125" y1="17.78" x2="25.4" y2="17.78" width="0" layer="20"/>
 <wire x1="-25.4" y1="17.78" x2="-23.8125" y2="17.78" width="0" layer="20"/>
@@ -328,7 +221,7 @@ DIN A4, landscape with extra doc field</description>
 <smd name="19_" x="21.59" y="3.81" dx="1.524" dy="6.477" layer="16"/>
 <smd name="20_" x="19.05" y="3.81" dx="1.524" dy="6.477" layer="16"/>
 <smd name="22_" x="13.97" y="3.81" dx="1.524" dy="6.477" layer="16"/>
-<smd name="24_" x="8.89" y="3.81" dx="6.4516" dy="6.477" layer="16"/>
+<smd name="24_" x="8.89" y="3.81" dx="1.524" dy="6.477" layer="16"/>
 <smd name="26_" x="3.81" y="3.81" dx="1.524" dy="6.477" layer="16"/>
 <smd name="27_" x="1.27" y="3.81" dx="1.524" dy="6.477" layer="16"/>
 <smd name="29_" x="-3.81" y="3.81" dx="1.524" dy="6.477" layer="16"/>
@@ -339,7 +232,7 @@ DIN A4, landscape with extra doc field</description>
 <smd name="36" x="-21.59" y="4.445" dx="1.524" dy="5.207" layer="16"/>
 <smd name="16" x="16.51" y="3.81" dx="1.524" dy="6.477" layer="1"/>
 <smd name="15" x="13.97" y="3.81" dx="1.524" dy="6.477" layer="1"/>
-<smd name="13" x="8.89" y="3.81" dx="6.4516" dy="6.477" layer="1"/>
+<smd name="13" x="8.89" y="3.81" dx="0.6477" dy="6.477" layer="1"/>
 <smd name="10" x="1.27" y="3.81" dx="1.524" dy="6.477" layer="1"/>
 <smd name="9" x="-1.27" y="3.81" dx="1.524" dy="6.477" layer="1"/>
 <smd name="8" x="-3.81" y="3.81" dx="1.524" dy="6.477" layer="1"/>
@@ -369,7 +262,6 @@ DIN A4, landscape with extra doc field</description>
 <rectangle x1="0.508" y1="0.508" x2="2.032" y2="7.112" layer="34"/>
 <rectangle x1="0.508" y1="0.508" x2="2.032" y2="7.112" layer="33"/>
 <rectangle x1="3.048" y1="0.508" x2="4.572" y2="7.112" layer="34"/>
-<rectangle x1="5.588" y1="0.5588" x2="12.192" y2="7.112" layer="34"/>
 <rectangle x1="5.588" y1="0.508" x2="12.192" y2="7.112" layer="33"/>
 <rectangle x1="13.208" y1="0.508" x2="14.732" y2="7.112" layer="34"/>
 <rectangle x1="13.208" y1="0.508" x2="14.732" y2="7.112" layer="33"/>
@@ -389,14 +281,139 @@ DIN A4, landscape with extra doc field</description>
 <smd name="18_" x="21.59" y="4.445" dx="1.524" dy="5.207" layer="1"/>
 <rectangle x1="15.748" y1="0.508" x2="17.272" y2="7.112" layer="34"/>
 <rectangle x1="15.748" y1="0.508" x2="17.272" y2="7.112" layer="33"/>
-<rectangle x1="5.588" y1="0.5588" x2="12.192" y2="7.0485" layer="1"/>
-<rectangle x1="5.588" y1="0.5588" x2="12.192" y2="7.0485" layer="16"/>
+<rectangle x1="5.588" y1="0.5588" x2="9.779" y2="7.0485" layer="1"/>
 <wire x1="-23.8125" y1="0" x2="23.8125" y2="0" width="0" layer="20"/>
 <hole x="0" y="39.37" drill="7"/>
+<wire x1="-6.35" y1="1.27" x2="-6.35" y2="-5.08" width="1.016" layer="34"/>
+<smd name="30" x="-6.35" y="3.81" dx="1.524" dy="6.477" layer="16"/>
+<rectangle x1="-7.112" y1="0.508" x2="-5.588" y2="7.112" layer="34"/>
+<wire x1="6.35" y1="1.27" x2="6.35" y2="-5.08" width="1.016" layer="34"/>
+<smd name="25" x="6.35" y="3.81" dx="1.524" dy="6.477" layer="16"/>
+<rectangle x1="5.588" y1="0.508" x2="7.112" y2="7.112" layer="34"/>
+<wire x1="11.43" y1="1.27" x2="11.43" y2="-5.08" width="1.016" layer="34"/>
+<smd name="23" x="11.43" y="3.81" dx="1.524" dy="6.477" layer="16"/>
+<rectangle x1="10.668" y1="0.508" x2="12.192" y2="7.112" layer="34"/>
+<smd name="11" x="3.81" y="3.81" dx="1.524" dy="6.477" layer="1"/>
+<smd name="14" x="11.43" y="3.81" dx="1.524" dy="6.477" layer="1"/>
+</package>
+<package name="ATARI-5200-LONG-T">
+<description>&lt;B&gt;Atari 5200&lt;/B&gt; cartridge board</description>
+<wire x1="23.8125" y1="17.78" x2="31.115" y2="17.78" width="0" layer="20"/>
+<wire x1="-31.115" y1="17.78" x2="-23.8125" y2="17.78" width="0" layer="20"/>
+<wire x1="-31.115" y1="90.17" x2="-5.08" y2="90.17" width="0" layer="20"/>
+<wire x1="-5.08" y1="90.17" x2="-5.08" y2="87.63" width="0" layer="20"/>
+<wire x1="-5.08" y1="87.63" x2="5.08" y2="87.63" width="0" layer="20"/>
+<wire x1="5.08" y1="87.63" x2="5.08" y2="90.17" width="0" layer="20"/>
+<wire x1="5.08" y1="90.17" x2="31.115" y2="90.17" width="0" layer="20"/>
+<wire x1="31.115" y1="90.17" x2="31.115" y2="17.78" width="0" layer="20"/>
+<wire x1="-31.115" y1="90.17" x2="-31.115" y2="17.78" width="0" layer="20"/>
+<wire x1="-23.8125" y1="0" x2="-23.8125" y2="17.78" width="0" layer="20"/>
+<wire x1="23.8125" y1="0" x2="23.8125" y2="17.78" width="0" layer="20"/>
+<wire x1="-21.59" y1="1.27" x2="-21.59" y2="-5.08" width="1.016" layer="34"/>
+<wire x1="-19.05" y1="1.27" x2="-19.05" y2="-5.08" width="1.016" layer="34"/>
+<wire x1="-13.97" y1="1.27" x2="-13.97" y2="-5.08" width="1.016" layer="34"/>
+<wire x1="-11.43" y1="1.27" x2="-11.43" y2="-5.08" width="1.016" layer="34"/>
+<wire x1="-8.89" y1="1.27" x2="-8.89" y2="-5.08" width="1.016" layer="34"/>
+<wire x1="-3.81" y1="1.27" x2="-3.81" y2="-5.08" width="1.016" layer="34"/>
+<wire x1="1.27" y1="1.27" x2="1.27" y2="-5.08" width="1.016" layer="34"/>
+<wire x1="3.81" y1="1.27" x2="3.81" y2="-5.08" width="1.016" layer="34"/>
+<wire x1="13.97" y1="1.27" x2="13.97" y2="-5.08" width="1.016" layer="34"/>
+<wire x1="19.05" y1="1.27" x2="19.05" y2="-5.08" width="1.016" layer="34"/>
+<wire x1="21.59" y1="1.27" x2="21.59" y2="-5.08" width="1.016" layer="34"/>
+<wire x1="-21.59" y1="1.27" x2="-21.59" y2="-5.08" width="1.016" layer="33"/>
+<wire x1="-19.05" y1="1.27" x2="-19.05" y2="-5.08" width="1.016" layer="33"/>
+<wire x1="-13.97" y1="1.27" x2="-13.97" y2="-5.08" width="1.016" layer="33"/>
+<wire x1="-11.43" y1="1.27" x2="-11.43" y2="-5.08" width="1.016" layer="33"/>
+<wire x1="-8.89" y1="1.27" x2="-8.89" y2="-5.08" width="1.016" layer="33"/>
+<wire x1="-6.35" y1="1.27" x2="-6.35" y2="-5.08" width="1.016" layer="33"/>
+<wire x1="-3.81" y1="1.27" x2="-3.81" y2="-5.08" width="1.016" layer="33"/>
+<wire x1="-1.27" y1="1.27" x2="-1.27" y2="-5.08" width="1.016" layer="33"/>
+<wire x1="1.27" y1="1.27" x2="1.27" y2="-5.08" width="1.016" layer="33"/>
+<wire x1="8.89" y1="1.27" x2="8.89" y2="-5.08" width="1.016" layer="33"/>
+<wire x1="13.97" y1="1.27" x2="13.97" y2="-5.08" width="1.016" layer="33"/>
+<wire x1="19.05" y1="1.27" x2="19.05" y2="-5.08" width="1.016" layer="33"/>
+<wire x1="21.59" y1="1.27" x2="21.59" y2="-5.08" width="1.016" layer="33"/>
+<smd name="19_" x="21.59" y="3.81" dx="1.524" dy="6.477" layer="16"/>
+<smd name="20_" x="19.05" y="3.81" dx="1.524" dy="6.477" layer="16"/>
+<smd name="22_" x="13.97" y="3.81" dx="1.524" dy="6.477" layer="16"/>
+<smd name="24_" x="8.89" y="3.81" dx="1.524" dy="6.477" layer="16" rot="R180"/>
+<smd name="26_" x="3.81" y="3.81" dx="1.524" dy="6.477" layer="16"/>
+<smd name="27_" x="1.27" y="3.81" dx="1.524" dy="6.477" layer="16"/>
+<smd name="29_" x="-3.81" y="3.81" dx="1.524" dy="6.477" layer="16"/>
+<smd name="31_" x="-8.89" y="3.81" dx="1.524" dy="6.477" layer="16"/>
+<smd name="32_" x="-11.43" y="3.81" dx="1.524" dy="6.477" layer="16"/>
+<smd name="33_" x="-13.97" y="3.81" dx="1.524" dy="6.477" layer="16"/>
+<smd name="35" x="-19.05" y="3.81" dx="1.524" dy="6.477" layer="16"/>
+<smd name="36" x="-21.59" y="4.445" dx="1.524" dy="5.207" layer="16"/>
+<smd name="16" x="16.51" y="3.81" dx="1.524" dy="6.477" layer="1"/>
+<smd name="15" x="13.97" y="3.81" dx="1.524" dy="6.477" layer="1"/>
+<smd name="13" x="8.89" y="3.81" dx="1.524" dy="6.477" layer="1"/>
+<smd name="10" x="1.27" y="3.81" dx="1.524" dy="6.477" layer="1"/>
+<smd name="9" x="-1.27" y="3.81" dx="1.524" dy="6.477" layer="1"/>
+<smd name="8" x="-3.81" y="3.81" dx="1.524" dy="6.477" layer="1"/>
+<smd name="7" x="-6.35" y="3.81" dx="1.524" dy="6.477" layer="1"/>
+<smd name="6" x="-8.89" y="3.81" dx="1.524" dy="6.477" layer="1"/>
+<smd name="5" x="-11.43" y="3.81" dx="1.524" dy="6.477" layer="1"/>
+<smd name="4" x="-13.97" y="3.81" dx="1.524" dy="6.477" layer="1"/>
+<smd name="3" x="-16.51" y="3.81" dx="1.524" dy="6.477" layer="1"/>
+<smd name="2" x="-19.05" y="3.81" dx="1.524" dy="6.477" layer="1"/>
+<smd name="1" x="-21.59" y="3.81" dx="1.524" dy="6.477" layer="1"/>
+<text x="-21.59" y="15.24" size="1.778" layer="25">&gt;NAME</text>
+<text x="-21.59" y="11.43" size="1.778" layer="27">&gt;VALUE</text>
+<rectangle x1="-22.352" y1="0.508" x2="-20.828" y2="7.112" layer="34"/>
+<rectangle x1="-22.352" y1="0.508" x2="-20.828" y2="7.112" layer="33"/>
+<rectangle x1="-19.812" y1="0.508" x2="-18.288" y2="7.112" layer="34"/>
+<rectangle x1="-19.812" y1="0.508" x2="-18.288" y2="7.112" layer="33"/>
+<rectangle x1="-14.732" y1="0.508" x2="-13.208" y2="7.112" layer="34"/>
+<rectangle x1="-14.732" y1="0.508" x2="-13.208" y2="7.112" layer="33"/>
+<rectangle x1="-12.192" y1="0.508" x2="-10.668" y2="7.112" layer="34"/>
+<rectangle x1="-12.192" y1="0.508" x2="-10.668" y2="7.112" layer="33"/>
+<rectangle x1="-9.652" y1="0.508" x2="-8.128" y2="7.112" layer="34"/>
+<rectangle x1="-9.652" y1="0.508" x2="-8.128" y2="7.112" layer="33"/>
+<rectangle x1="-7.112" y1="0.508" x2="-5.588" y2="7.112" layer="33"/>
+<rectangle x1="-4.572" y1="0.508" x2="-3.048" y2="7.112" layer="34"/>
+<rectangle x1="-4.572" y1="0.508" x2="-3.048" y2="7.112" layer="33"/>
+<rectangle x1="-2.032" y1="0.508" x2="-0.508" y2="7.112" layer="33"/>
+<rectangle x1="0.508" y1="0.508" x2="2.032" y2="7.112" layer="34"/>
+<rectangle x1="0.508" y1="0.508" x2="2.032" y2="7.112" layer="33"/>
+<rectangle x1="3.048" y1="0.508" x2="4.572" y2="7.112" layer="34"/>
+<rectangle x1="5.588" y1="0.508" x2="9.779" y2="7.112" layer="33"/>
+<rectangle x1="13.208" y1="0.508" x2="14.732" y2="7.112" layer="34"/>
+<rectangle x1="13.208" y1="0.508" x2="14.732" y2="7.112" layer="33"/>
+<rectangle x1="18.288" y1="0.508" x2="19.812" y2="7.112" layer="34"/>
+<rectangle x1="18.288" y1="0.508" x2="19.812" y2="7.112" layer="33"/>
+<rectangle x1="20.828" y1="0.508" x2="22.352" y2="7.112" layer="34"/>
+<rectangle x1="20.828" y1="0.508" x2="22.352" y2="7.112" layer="33"/>
+<wire x1="-16.51" y1="1.27" x2="-16.51" y2="-5.08" width="1.016" layer="34"/>
+<wire x1="-16.51" y1="1.27" x2="-16.51" y2="-5.08" width="1.016" layer="33"/>
+<smd name="34_" x="-16.51" y="3.81" dx="1.524" dy="6.477" layer="16"/>
+<smd name="17_" x="19.05" y="3.81" dx="1.524" dy="6.477" layer="1"/>
+<rectangle x1="-17.272" y1="0.508" x2="-15.748" y2="7.112" layer="34"/>
+<rectangle x1="-17.272" y1="0.508" x2="-15.748" y2="7.112" layer="33"/>
+<wire x1="16.51" y1="1.27" x2="16.51" y2="-5.08" width="1.016" layer="34"/>
+<wire x1="16.51" y1="1.27" x2="16.51" y2="-5.08" width="1.016" layer="33"/>
+<smd name="21_" x="16.51" y="3.81" dx="1.524" dy="6.477" layer="16"/>
+<smd name="18_" x="21.59" y="4.445" dx="1.524" dy="5.207" layer="1"/>
+<rectangle x1="15.748" y1="0.508" x2="17.272" y2="7.112" layer="34"/>
+<rectangle x1="15.748" y1="0.508" x2="17.272" y2="7.112" layer="33"/>
+<rectangle x1="5.588" y1="0.5588" x2="9.779" y2="7.0485" layer="1"/>
+<wire x1="-23.8125" y1="0" x2="23.8125" y2="0" width="0" layer="20"/>
+<hole x="0" y="39.37" drill="7"/>
+<wire x1="8.89" y1="1.27" x2="8.89" y2="-5.08" width="1.016" layer="34"/>
+<rectangle x1="10.668" y1="0.508" x2="12.192" y2="7.112" layer="34" rot="R180"/>
+<wire x1="6.35" y1="1.27" x2="6.35" y2="-5.08" width="1.016" layer="34"/>
+<smd name="25" x="6.35" y="3.81" dx="1.524" dy="6.477" layer="16"/>
+<wire x1="11.43" y1="1.27" x2="11.43" y2="-5.08" width="1.016" layer="34"/>
+<smd name="23" x="11.43" y="3.81" dx="1.524" dy="6.477" layer="16" rot="R180"/>
+<wire x1="-6.35" y1="1.27" x2="-6.35" y2="-5.08" width="1.016" layer="34"/>
+<smd name="30" x="-6.35" y="3.81" dx="1.524" dy="6.477" layer="16"/>
+<rectangle x1="-7.112" y1="0.508" x2="-5.588" y2="7.112" layer="34"/>
+<smd name="11" x="3.81" y="3.81" dx="1.524" dy="6.477" layer="1"/>
+<smd name="14" x="11.43" y="3.81" dx="1.524" dy="6.477" layer="1" rot="R180"/>
 </package>
 </packages>
 <symbols>
-<symbol name="CART5200">
+<symbol name="CART5200-T">
 <description>ATARI 5200 CARTRIDGE</description>
 <pin name="D0" x="-17.78" y="20.32" length="middle"/>
 <pin name="D1" x="-17.78" y="17.78" length="middle"/>
@@ -417,7 +434,7 @@ DIN A4, landscape with extra doc field</description>
 <pin name="A1" x="17.78" y="-20.32" length="middle" rot="R180"/>
 <pin name="A3" x="17.78" y="-17.78" length="middle" rot="R180"/>
 <pin name="A4" x="17.78" y="-15.24" length="middle" rot="R180"/>
-<pin name="GND@24" x="17.78" y="-10.16" length="middle" rot="R180"/>
+<pin name="VIDEO" x="17.78" y="-10.16" length="middle" rot="R180"/>
 <pin name="+5V" x="17.78" y="-5.08" length="middle" rot="R180"/>
 <pin name="A7" x="17.78" y="-2.54" length="middle" rot="R180"/>
 <pin name="A8" x="17.78" y="2.54" length="middle" rot="R180"/>
@@ -431,15 +448,22 @@ DIN A4, landscape with extra doc field</description>
 <wire x1="-12.7" y1="-25.4" x2="12.7" y2="-25.4" width="0.254" layer="94"/>
 <wire x1="12.7" y1="-25.4" x2="12.7" y2="22.86" width="0.254" layer="94"/>
 <wire x1="12.7" y1="22.86" x2="-12.7" y2="22.86" width="0.254" layer="94"/>
+<pin name="OSC" x="17.78" y="5.08" length="middle" rot="R180"/>
+<pin name="GND@25" x="17.78" y="-7.62" length="middle" rot="R180"/>
+<pin name="GND@23" x="17.78" y="-12.7" length="middle" rot="R180"/>
+<pin name="UNREG+9V" x="-17.78" y="-5.08" length="middle"/>
+<pin name="PHI2" x="-17.78" y="-12.7" length="middle"/>
 </symbol>
 </symbols>
 <devicesets>
-<deviceset name="ATARI-5200">
+<deviceset name="ATARI-5200-T">
+<description>Extended ROM Cart Edge Connector&lt;br&gt;
+OSC and VIDEO signals was used in VCS T Interface for 5200 Systems</description>
 <gates>
-<gate name="G$1" symbol="CART5200" x="48.26" y="-7.62"/>
+<gate name="G$1" symbol="CART5200-T" x="48.26" y="-7.62"/>
 </gates>
 <devices>
-<device name="" package="ATARI-5200-LONG">
+<device name="" package="ATARI-5200-LONG-T">
 <connects>
 <connect gate="G$1" pin="!Y1" pad="10"/>
 <connect gate="G$1" pin="!Y2" pad="9"/>
@@ -469,13 +493,18 @@ DIN A4, landscape with extra doc field</description>
 <connect gate="G$1" pin="D6" pad="7"/>
 <connect gate="G$1" pin="D7" pad="8"/>
 <connect gate="G$1" pin="GND@13" pad="13"/>
-<connect gate="G$1" pin="GND@24" pad="24_"/>
+<connect gate="G$1" pin="GND@23" pad="23"/>
+<connect gate="G$1" pin="GND@25" pad="25"/>
+<connect gate="G$1" pin="OSC" pad="30"/>
+<connect gate="G$1" pin="PHI2" pad="14"/>
+<connect gate="G$1" pin="UNREG+9V" pad="11"/>
+<connect gate="G$1" pin="VIDEO" pad="24_"/>
 </connects>
 <technologies>
 <technology name=""/>
 </technologies>
 </device>
-<device name="S" package="ATARI-5200-SMALL">
+<device name="S" package="ATARI-5200-SMALL-T">
 <connects>
 <connect gate="G$1" pin="!Y1" pad="10"/>
 <connect gate="G$1" pin="!Y2" pad="9"/>
@@ -505,7 +534,12 @@ DIN A4, landscape with extra doc field</description>
 <connect gate="G$1" pin="D6" pad="7"/>
 <connect gate="G$1" pin="D7" pad="8"/>
 <connect gate="G$1" pin="GND@13" pad="13"/>
-<connect gate="G$1" pin="GND@24" pad="24_"/>
+<connect gate="G$1" pin="GND@23" pad="23"/>
+<connect gate="G$1" pin="GND@25" pad="25"/>
+<connect gate="G$1" pin="OSC" pad="30"/>
+<connect gate="G$1" pin="PHI2" pad="14"/>
+<connect gate="G$1" pin="UNREG+9V" pad="11"/>
+<connect gate="G$1" pin="VIDEO" pad="24_"/>
 </connects>
 <technologies>
 <technology name=""/>
@@ -10620,7 +10654,7 @@ Source: www.farnell.com/datasheets/247.pdf</description>
 </classes>
 <parts>
 <part name="FRAME1" library="frames" deviceset="DINA4_L" device=""/>
-<part name="U$1" library="a52-cartridge" deviceset="ATARI-5200" device="S" value="ATARI-5200S"/>
+<part name="U$1" library="a52-cartridge" deviceset="ATARI-5200-T" device="S" value="ATARI-5200-TS"/>
 <part name="FLASH" library="am29-memory" deviceset="AM29F040J" device=""/>
 <part name="XC9536XL" library="xilinx-xc9" deviceset="XC9536_44VQ" device="" value="XC9536XL"/>
 <part name="GND1" library="supply1" deviceset="GND" device=""/>
@@ -10661,7 +10695,7 @@ Source: www.farnell.com/datasheets/247.pdf</description>
 <instance part="FLASH" gate="G$1" x="226.06" y="121.92"/>
 <instance part="XC9536XL" gate="G$1" x="137.16" y="114.3"/>
 <instance part="GND1" gate="1" x="10.16" y="106.68"/>
-<instance part="GND2" gate="1" x="71.12" y="106.68"/>
+<instance part="GND2" gate="1" x="71.12" y="104.14"/>
 <instance part="P+1" gate="1" x="71.12" y="121.92"/>
 <instance part="+3V1" gate="G$1" x="76.2" y="43.18"/>
 <instance part="REG3V3" gate="G$1" x="43.18" y="35.56"/>
@@ -11103,10 +11137,18 @@ Source: www.farnell.com/datasheets/247.pdf</description>
 <pinref part="GND1" gate="1" pin="GND"/>
 </segment>
 <segment>
-<pinref part="U$1" gate="G$1" pin="GND@24"/>
+<pinref part="U$1" gate="G$1" pin="VIDEO"/>
 <wire x1="58.42" y1="111.76" x2="71.12" y2="111.76" width="0.1524" layer="91"/>
 <wire x1="71.12" y1="111.76" x2="71.12" y2="109.22" width="0.1524" layer="91"/>
 <pinref part="GND2" gate="1" pin="GND"/>
+<pinref part="U$1" gate="G$1" pin="GND@23"/>
+<wire x1="71.12" y1="109.22" x2="71.12" y2="106.68" width="0.1524" layer="91"/>
+<wire x1="58.42" y1="109.22" x2="71.12" y2="109.22" width="0.1524" layer="91"/>
+<junction x="71.12" y="109.22"/>
+<pinref part="U$1" gate="G$1" pin="GND@25"/>
+<wire x1="58.42" y1="114.3" x2="71.12" y2="114.3" width="0.1524" layer="91"/>
+<wire x1="71.12" y1="114.3" x2="71.12" y2="111.76" width="0.1524" layer="91"/>
+<junction x="71.12" y="111.76"/>
 </segment>
 <segment>
 <pinref part="REG3V3" gate="G$1" pin="GND"/>
@@ -11393,6 +11435,18 @@ Source: www.farnell.com/datasheets/247.pdf</description>
 <pinref part="XC9536XL" gate="G$1" pin="PB01/03"/>
 <wire x1="142.24" y1="152.4" x2="142.24" y2="142.24" width="0.1524" layer="91"/>
 <label x="142.24" y="144.78" size="1.778" layer="95" rot="R90"/>
+</segment>
+</net>
+<net name="PHI2" class="0">
+<segment>
+<pinref part="U$1" gate="G$1" pin="PHI2"/>
+<wire x1="15.24" y1="109.22" x2="22.86" y2="109.22" width="0.1524" layer="91"/>
+<label x="15.24" y="109.22" size="1.778" layer="95"/>
+</segment>
+<segment>
+<pinref part="XC9536XL" gate="G$1" pin="PB00/07"/>
+<wire x1="99.06" y1="121.92" x2="109.22" y2="121.92" width="0.1524" layer="91"/>
+<label x="99.06" y="121.92" size="1.778" layer="95"/>
 </segment>
 </net>
 </nets>
